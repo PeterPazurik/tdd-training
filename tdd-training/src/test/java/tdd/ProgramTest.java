@@ -11,7 +11,7 @@ public class ProgramTest {
     }
 
     @Test public void failingTest2() {
-    	assertEquals(1, 2	, "failing test 2");
+    	assertEquals(1, 2	, "failing test");
     }
     
     @Test public void passingTest() {
